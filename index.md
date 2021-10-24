@@ -2,7 +2,7 @@
 
 ### Biên bảng tuần 1  
 
-<div><p><iframe src="https://drive.google.com/file/d/1ycygqiCTxkpQvweZ7oYCClfMcs3ktufv/preview" width=100% height="480" allow="autoplay"></iframe></div></p>
+<div><p><iframe src="https://drive.google.com/file/d/1ycygqiCTxkpQvweZ7oYCClfMcs3ktufv/preview" width="100%" height="480" allow="autoplay"></iframe></div></p>
 
 ### 1 số công cụ
 [Công cụ hỗ trợ lấy link download](https://sites.google.com/site/gdocs2direct/)  
