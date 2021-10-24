@@ -9,5 +9,5 @@
 [file drive nhóm](https://drive.google.com/drive/folders/1opWsqdcC0u0JIWPV04p15eFuq5vF0WuD?usp=sharing)
 
 ### Lấy link download trực tiếp
-https://sites.google.com/site/gdocs2direct/
+[](https://sites.google.com/site/gdocs2direct/)
 
