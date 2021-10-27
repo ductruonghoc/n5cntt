@@ -2,7 +2,7 @@
 
 ### Biên bảng tuần 1  
 
-<iframe src="https://drive.google.com/file/d/1ycygqiCTxkpQvweZ7oYCClfMcs3ktufv/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1PrspPA1ic6HzIGoUIKDz19YrBj41Pr09/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 ### 1 số công cụ
 [Bài tham khảo về UI](https://mona.media/thiet-ke-ux-ui/)  
